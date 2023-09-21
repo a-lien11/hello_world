@@ -15,8 +15,8 @@ We were tasked with creating a dashboard from the Iowa City Police website, whic
 
 
 ## Files Used 
-[Current Iowa City Arrests](https://www.iowa-city.org/IcgovApps/Police/ArrestBlotterLinks)
-[DASHBOARD LINK](https://docs.google.com/spreadsheets/d/11JgSQWD8fpR5SKPg9m6xaGcRKghmcaCrOO_xjN_gxP4/edit?usp=sharing)
+- [Current Iowa City Arrests](https://www.iowa-city.org/IcgovApps/Police/ArrestBlotterLinks)
+- [DASHBOARD LINK](https://docs.google.com/spreadsheets/d/11JgSQWD8fpR5SKPg9m6xaGcRKghmcaCrOO_xjN_gxP4/edit?usp=sharing)
 
   
 ## Additional Documentation
